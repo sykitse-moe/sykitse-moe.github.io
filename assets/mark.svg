@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="SykiTSE-MoE mark">
+  <rect width="48" height="48" rx="8" fill="#18212b"/>
+  <path d="M8 24h7l4-10 7 20 5-13 4 7h5" fill="none" stroke="#5fd1c5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="40" cy="28" r="2.5" fill="#f2b84b"/>
+</svg>
